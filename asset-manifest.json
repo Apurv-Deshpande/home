@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.efa476c1.chunk.css",
+    "main.js": "/home/static/js/main.d16e5ec3.chunk.js",
+    "main.js.map": "/home/static/js/main.d16e5ec3.chunk.js.map",
+    "runtime~main.js": "/home/static/js/runtime~main.0990ee84.js",
+    "runtime~main.js.map": "/home/static/js/runtime~main.0990ee84.js.map",
+    "static/js/2.760b03de.chunk.js": "/home/static/js/2.760b03de.chunk.js",
+    "static/js/2.760b03de.chunk.js.map": "/home/static/js/2.760b03de.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.009699c83d794fb0bb74914d920655a4.js": "/home/precache-manifest.009699c83d794fb0bb74914d920655a4.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.efa476c1.chunk.css.map": "/home/static/css/main.efa476c1.chunk.css.map",
+    "static/media/App.scss": "/home/static/media/webdevelopment.c193c638.png",
+    "static/media/course-angular.png": "/home/static/media/course-angular.aa436d45.png",
+    "static/media/course.png": "/home/static/media/course.1ae939eb.png",
+    "static/media/football.png": "/home/static/media/football.81f1e720.png",
+    "static/media/portfolio.png": "/home/static/media/portfolio.4eb39ab0.png"
+  }
+}
